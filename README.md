@@ -1,4 +1,1 @@
 - 👋 Hi, I’m @Oscar-man-shrestha
-- 👀 I’m interested in coding
-- 🌱 I’m currently gaining my knowledge
-- 📫 How to reach me 
