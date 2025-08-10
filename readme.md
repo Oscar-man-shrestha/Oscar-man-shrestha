@@ -21,9 +21,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Oscar-man-shrestha&icon=2&color=1)](https://visitcount.itsvg.in)
 
-# readme
-
-
-# readme
-
-# readme
