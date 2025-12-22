@@ -1,27 +1,25 @@
-<!-- Header Section -->
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Oscar%20Shrestha&fontSize=60&fontAlignY=35&animation=fadeIn" alt="Header" />
 </div>
 
-<!-- Introduction -->
 <div align="center">
   <h2>👋 Hello, I'm Oscar Shrestha!</h2>
-  <p><strong>Your Role Here | Passion Statement</strong></p>
+  <p><strong>A passionate learner with a strong interest in growing my skills</strong></p>
   
   <p>
-    I'm a passionate developer who loves building innovative solutions and contributing to open-source projects.
     I enjoy turning complex problems into simple, beautiful, and intuitive designs.
   </p>
   
-  <!-- Badges -->
+
   <p>
     <img src="https://komarev.com/ghpvc/?username=Oscar-man-shrestha&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-    <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&labelColor=495057&url=https://api.github-star-counter.workers.dev/user/Oscar-man-shrestha&query=$.count&color=495057&prefix=%20&suffix=%20stars&style=flat" alt="GitHub stars" />
-    <img src="https://wakatime.com/badge/user/YOUR_WAKATIME_ID.svg" alt="Total coding time" />
+    <img src="https://img.shields.io/github/followers/Oscar-man-shrestha?label=Followers&style=social" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/stars/Oscar-man-shrestha?label=Profile%20Stars&style=social" alt="Profile Stars" />
   </p>
 </div>
 
-<!-- Stats Section -->
+
 <div align="center">
   <h2>📊 GitHub Statistics</h2>
   
@@ -34,81 +32,59 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Oscar-man-shrestha&theme=radical&no-frame=true&row=2&column=4" alt="GitHub Trophies" height="180" />
 </div>
 
-<!-- Tech Stack -->
+
 <div align="center">
   <h2>🛠️ Tech Stack & Tools</h2>
   
-  <!-- Programming Languages -->
+  
   <h3>Programming Languages</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,go,rust&theme=dark" alt="Programming Languages" />
+    <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,html,css&theme=dark" alt="Programming Languages" />
   </p>
   
-  <!-- Frontend Development -->
+ 
   <h3>Frontend Development</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=react,vue,nextjs,angular,html,css,sass,tailwind&theme=dark" alt="Frontend" />
+    <img src="https://skillicons.dev/icons?i=react,vue,nextjs,angular,sass,tailwind,bootstrap&theme=dark" alt="Frontend" />
   </p>
   
-  <!-- Backend Development -->
+
   <h3>Backend Development</h3>
   <p>
     <img src="https://skillicons.dev/icons?i=nodejs,express,django,spring,flask,fastapi&theme=dark" alt="Backend" />
   </p>
   
-  <!-- Databases -->
+  
   <h3>Databases</h3>
   <p>
     <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,firebase&theme=dark" alt="Databases" />
   </p>
   
-  <!-- DevOps & Cloud -->
+  
   <h3>DevOps & Cloud</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,gcp,githubactions,jenkins&theme=dark" alt="DevOps" />
+    <img src="https://skillicons.dev/icons?i=docker,aws,azure,gcp,githubactions,nginx&theme=dark" alt="DevOps" />
   </p>
   
-  <!-- Other Tools -->
+ 
   <h3>Other Tools</h3>
   <p>
     <img src="https://skillicons.dev/icons?i=git,vscode,figma,postman,linux,bash,powershell&theme=dark" alt="Tools" />
   </p>
 </div>
 
-<!-- Activity Graph -->
+
 <div align="center">
   <h2>⚡ Recent Activity</h2>
   
-  <!-- GitHub Activity Graph -->
+  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Oscar-man-shrestha&theme=react-dark&bg_color=20232a&hide_border=true&area=true" alt="Activity Graph" width="95%" />
   
-  <!-- Snake Animation -->
-  <img src="https://raw.githubusercontent.com/Oscar-man-shrestha/Oscar-man-shrestha/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
-<!-- Featured Projects -->
-<div align="center">
-  <h2>🚀 Featured Projects</h2>
   
-  <div align="left">
-    <!-- Project 1 -->
-    <h3>🎯 <a href="YOUR_PROJECT1_LINK">Project 1 Name</a></h3>
-    <p><strong>Tech:</strong> React, Node.js, MongoDB</p>
-    <p>Brief description of what this project does and why it's cool.</p>
-    
-    <!-- Project 2 -->
-    <h3>🎯 <a href="YOUR_PROJECT2_LINK">Project 2 Name</a></h3>
-    <p><strong>Tech:</strong> Python, FastAPI, PostgreSQL</p>
-    <p>Brief description of what this project does and why it's cool.</p>
-    
-    <!-- Project 3 -->
-    <h3>🎯 <a href="YOUR_PROJECT3_LINK">Project 3 Name</a></h3>
-    <p><strong>Tech:</strong> TypeScript, Next.js, Tailwind CSS</p>
-    <p>Brief description of what this project does and why it's cool.</p>
-  </div>
+  <img src="https://raw.githubusercontent.com/Oscar-man-shrestha/Oscar-man-shrestha/main/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
-<!-- Contributions & Metrics -->
+
 <div align="center">
   <h2>📈 Contribution Metrics</h2>
   
@@ -120,25 +96,44 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Oscar-man-shrestha&theme=radical" alt="Repos Per Language" width="45%" />
 </div>
 
-<!-- Connect Section -->
+
+<div align="center">
+  <h2>🚀 My Projects</h2>
+  
+  <div align="left">
+    <!-- Project 1 -->
+    <h3>🎯 <a href="https://github.com/Oscar-man-shrestha/First_Nextjs_app">First Next.js App</a></h3>
+    <p><strong>Tech:</strong> Next.js, React, JavaScript</p>
+    <p>My first exploration with Next.js framework</p>
+    
+    <!-- Project 2 -->
+    <h3>🎯 <a href="https://github.com/Oscar-man-shrestha/mern-recipe-app">MERN Recipe App</a></h3>
+    <p><strong>Tech:</strong> MongoDB, Express, React, Node.js</p>
+    <p>Full-stack recipe management application</p>
+    
+    <!-- Project 3 -->
+    <h3>🎯 <a href="https://github.com/Oscar-man-shrestha/python-data-analysis">Python Data Analysis</a></h3>
+    <p><strong>Tech:</strong> Python, Pandas, NumPy, Matplotlib</p>
+    <p>Data analysis and visualization projects</p>
+  </div>
+</div>
+
+
 <div align="center">
   <h2>📫 Connect With Me</h2>
   
   <p>
-    <a href="YOUR_LINKEDIN_URL" target="_blank">
+    <a href="https://www.linkedin.com/in/oscar-shrestha/" target="_blank">
       <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" />
     </a>
-    <a href="mailto:YOUR_EMAIL">
+    <a href="mailto:oscarmanshrestha@gmail.com">
       <img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="40" />
     </a>
-    <a href="YOUR_TWITTER_URL" target="_blank">
+    <a href="https://twitter.com/yourprofile" target="_blank">
       <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="40" />
     </a>
-    <a href="YOUR_PORTFOLIO_URL" target="_blank">
+    <a href="https://oscar-shrestha.vercel.app/" target="_blank">
       <img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" height="40" />
-    </a>
-    <a href="YOUR_DEVTO_URL" target="_blank">
-      <img src="https://skillicons.dev/icons?i=devto" alt="Dev.to" height="40" />
     </a>
   </p>
   
@@ -147,13 +142,13 @@
   </p>
 </div>
 
-<!-- Footer -->
+
 <div align="center">
   <br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&reversal=true" alt="Footer" />
   
   <p>
-    <i>Last Updated: <!--DATE-->January 2024<!--/DATE--></i>
+    <i>"Code is like humor. When you have to explain it, it's bad." - Cory House</i>
     <br/>
     <i>Thanks for visiting! ❤️</i>
   </p>
