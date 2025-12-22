@@ -1,4 +1,4 @@
-
+<!-- Header Section -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Oscar%20Shrestha&fontSize=60&fontAlignY=35&animation=fadeIn" alt="Header" />
 </div>
@@ -24,7 +24,7 @@
   <br/><br/>
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Oscar-man-shrestha&theme=radical" alt="GitHub Streak" height="180" />
-  <img src="https://github-profile-trophy.vercel.app/api?username=Oscar-man-shrestha&theme=onedark" alt="GitHub Trophies" height="180" />
+  <img src="https://github-trophies.vercel.app/?username=Oscar-man-shrestha" alt="GitHub Trophies" height="180" />
 </div>
 
 <div align="center">
