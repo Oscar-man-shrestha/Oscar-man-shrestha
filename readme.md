@@ -63,7 +63,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Oscar-man-shrestha&theme=radical" alt="Profile Details" />
   
   <br/>
-  <!--
+
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Oscar-man-shrestha&theme=radical" alt="Most Commit Language" width="45%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Oscar-man-shrestha&theme=radical" alt="Repos Per Language" width="45%" />
 </div>
@@ -75,10 +75,10 @@
      <h3>🎯 <a href="https://github.com/Oscar-man-shrestha/First_Nextjs_app">First Next.js App</a></h3>
     <p><strong>Tech:</strong> Next.js, React, JavaScript</p>
     <p>My first exploration with Next.js framework</p> -->
-    
+    <!--
     <h3>🎯 <a href="https://github.com/Oscar-man-shrestha/mern-recipe-app">MERN Recipe App</a></h3>
     <p><strong>Tech:</strong> MongoDB, Express, React, Node.js</p>
-    <p>Full-stack recipe management application</p>
+    <p>Full-stack recipe management application</p>!-->
     
     <h3>🎯 <a href="https://github.com/Oscar-man-shrestha/python-data-analysis">Python Data Analysis</a></h3>
     <p><strong>Tech:</strong> Python, Pandas, NumPy, Matplotlib</p>
