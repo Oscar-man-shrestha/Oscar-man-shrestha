@@ -1,23 +1,160 @@
+<!-- Header Section -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Oscar%20Shrestha&fontSize=60&fontAlignY=35&animation=fadeIn" alt="Header" />
+</div>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/ayush.stha.77) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/oscar-man-shrestha-701455313/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:oscarmanshrestha@gmail.com) 
+<!-- Introduction -->
+<div align="center">
+  <h2>👋 Hello, I'm Oscar Shrestha!</h2>
+  <p><strong>Your Role Here | Passion Statement</strong></p>
+  
+  <p>
+    I'm a passionate developer who loves building innovative solutions and contributing to open-source projects.
+    I enjoy turning complex problems into simple, beautiful, and intuitive designs.
+  </p>
+  
+  <!-- Badges -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=Oscar-man-shrestha&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+    <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&labelColor=495057&url=https://api.github-star-counter.workers.dev/user/Oscar-man-shrestha&query=$.count&color=495057&prefix=%20&suffix=%20stars&style=flat" alt="GitHub stars" />
+    <img src="https://wakatime.com/badge/user/YOUR_WAKATIME_ID.svg" alt="Total coding time" />
+  </p>
+</div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Oscar-man-shrestha&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Oscar-man-shrestha&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Oscar-man-shrestha&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- Stats Section -->
+<div align="center">
+  <h2>📊 GitHub Statistics</h2>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Oscar-man-shrestha&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oscar-man-shrestha&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
+  
+  <br/><br/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Oscar-man-shrestha&theme=radical&hide_border=false" alt="GitHub Streak" height="180" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Oscar-man-shrestha&theme=radical&no-frame=true&row=2&column=4" alt="GitHub Trophies" height="180" />
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Oscar-man-shrestha&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<!-- Tech Stack -->
+<div align="center">
+  <h2>🛠️ Tech Stack & Tools</h2>
+  
+  <!-- Programming Languages -->
+  <h3>Programming Languages</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,go,rust&theme=dark" alt="Programming Languages" />
+  </p>
+  
+  <!-- Frontend Development -->
+  <h3>Frontend Development</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=react,vue,nextjs,angular,html,css,sass,tailwind&theme=dark" alt="Frontend" />
+  </p>
+  
+  <!-- Backend Development -->
+  <h3>Backend Development</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,django,spring,flask,fastapi&theme=dark" alt="Backend" />
+  </p>
+  
+  <!-- Databases -->
+  <h3>Databases</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,firebase&theme=dark" alt="Databases" />
+  </p>
+  
+  <!-- DevOps & Cloud -->
+  <h3>DevOps & Cloud</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,gcp,githubactions,jenkins&theme=dark" alt="DevOps" />
+  </p>
+  
+  <!-- Other Tools -->
+  <h3>Other Tools</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=git,vscode,figma,postman,linux,bash,powershell&theme=dark" alt="Tools" />
+  </p>
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<!-- Activity Graph -->
+<div align="center">
+  <h2>⚡ Recent Activity</h2>
+  
+  <!-- GitHub Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Oscar-man-shrestha&theme=react-dark&bg_color=20232a&hide_border=true&area=true" alt="Activity Graph" width="95%" />
+  
+  <!-- Snake Animation -->
+  <img src="https://raw.githubusercontent.com/Oscar-man-shrestha/Oscar-man-shrestha/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Oscar-man-shrestha&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<!-- Featured Projects -->
+<div align="center">
+  <h2>🚀 Featured Projects</h2>
+  
+  <div align="left">
+    <!-- Project 1 -->
+    <h3>🎯 <a href="YOUR_PROJECT1_LINK">Project 1 Name</a></h3>
+    <p><strong>Tech:</strong> React, Node.js, MongoDB</p>
+    <p>Brief description of what this project does and why it's cool.</p>
+    
+    <!-- Project 2 -->
+    <h3>🎯 <a href="YOUR_PROJECT2_LINK">Project 2 Name</a></h3>
+    <p><strong>Tech:</strong> Python, FastAPI, PostgreSQL</p>
+    <p>Brief description of what this project does and why it's cool.</p>
+    
+    <!-- Project 3 -->
+    <h3>🎯 <a href="YOUR_PROJECT3_LINK">Project 3 Name</a></h3>
+    <p><strong>Tech:</strong> TypeScript, Next.js, Tailwind CSS</p>
+    <p>Brief description of what this project does and why it's cool.</p>
+  </div>
+</div>
 
----
-[![](https://visitcount.itsvg.in/api?id=Oscar-man-shrestha&icon=2&color=1)](https://visitcount.itsvg.in)
+<!-- Contributions & Metrics -->
+<div align="center">
+  <h2>📈 Contribution Metrics</h2>
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Oscar-man-shrestha&theme=radical" alt="Profile Details" />
+  
+  <br/>
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Oscar-man-shrestha&theme=radical" alt="Most Commit Language" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Oscar-man-shrestha&theme=radical" alt="Repos Per Language" width="45%" />
+</div>
 
+<!-- Connect Section -->
+<div align="center">
+  <h2>📫 Connect With Me</h2>
+  
+  <p>
+    <a href="YOUR_LINKEDIN_URL" target="_blank">
+      <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" />
+    </a>
+    <a href="mailto:YOUR_EMAIL">
+      <img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="40" />
+    </a>
+    <a href="YOUR_TWITTER_URL" target="_blank">
+      <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="40" />
+    </a>
+    <a href="YOUR_PORTFOLIO_URL" target="_blank">
+      <img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" height="40" />
+    </a>
+    <a href="YOUR_DEVTO_URL" target="_blank">
+      <img src="https://skillicons.dev/icons?i=devto" alt="Dev.to" height="40" />
+    </a>
+  </p>
+  
+  <p>
+    <strong>💼 Open to:</strong> Collaborations, Freelance Projects, Job Opportunities
+  </p>
+</div>
+
+<!-- Footer -->
+<div align="center">
+  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&reversal=true" alt="Footer" />
+  
+  <p>
+    <i>Last Updated: <!--DATE-->January 2024<!--/DATE--></i>
+    <br/>
+    <i>Thanks for visiting! ❤️</i>
+  </p>
+</div>
