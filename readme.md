@@ -79,7 +79,7 @@
     <h3>🎯 <a href="https://github.com/Oscar-man-shrestha/mern-recipe-app">MERN Recipe App</a></h3>
     <p><strong>Tech:</strong> MongoDB, Express, React, Node.js</p>
     <p>Full-stack recipe management application</p>!-->
-    
+     <!--
     <h3>🎯 <a href="https://github.com/Oscar-man-shrestha/python-data-analysis">Python Data Analysis</a></h3>
     <p><strong>Tech:</strong> Python, Pandas, NumPy, Matplotlib</p>
     <p>Data analysis and visualization projects</p>  !-->
