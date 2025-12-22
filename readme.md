@@ -1,13 +1,13 @@
-<!-- Header Section -->
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Oscar%20Shrestha&fontSize=60&fontAlignY=35&animation=fadeIn" alt="Header" />
 </div>
 
 <div align="center">
-  <h2>👋 Hello, I'm Oscar Shrestha!</h2>
-  <p><strong>Full Stack Developer | Open Source Contributor</strong></p>
+  <h2>👋 Hello, I'm Oscar Man Shrestha!</h2>
+  <!-- <p><strong>Full Stack Developer</strong></p> -->
   
-  <p>I'm a passionate developer who loves building innovative solutions and contributing to open-source projects.</p>
+  <p>I'm a passionate developer who loves building innovative solutions. </p>
   
   <p>
     <img src="https://komarev.com/ghpvc/?username=Oscar-man-shrestha&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
@@ -68,13 +68,13 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Oscar-man-shrestha&theme=radical" alt="Repos Per Language" width="45%" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <h2>🚀 My Projects</h2>
   
   <div align="left">
-    <h3>🎯 <a href="https://github.com/Oscar-man-shrestha/First_Nextjs_app">First Next.js App</a></h3>
+    <!-- <h3>🎯 <a href="https://github.com/Oscar-man-shrestha/First_Nextjs_app">First Next.js App</a></h3>
     <p><strong>Tech:</strong> Next.js, React, JavaScript</p>
-    <p>My first exploration with Next.js framework</p>
+    <p>My first exploration with Next.js framework</p> -->
     
     <h3>🎯 <a href="https://github.com/Oscar-man-shrestha/mern-recipe-app">MERN Recipe App</a></h3>
     <p><strong>Tech:</strong> MongoDB, Express, React, Node.js</p>
@@ -84,25 +84,25 @@
     <p><strong>Tech:</strong> Python, Pandas, NumPy, Matplotlib</p>
     <p>Data analysis and visualization projects</p>
   </div>
-</div>
+</div> -->
 
 <div align="center">
   <h2>📫 Connect With Me</h2>
   
   <p>
-    <a href="https://www.linkedin.com/in/oscar-shrestha/" target="_blank">
+    <a href="[https://www.linkedin.com/in/oscar-shrestha/](https://www.linkedin.com/in/oscar-man-shrestha-701455313/)" target="_blank">
       <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" />
     </a>
-    <a href="mailto:oscar@example.com">
+    <a href="mailto:oscarmanshrestha@gmail.com">
       <img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="40" />
     </a>
-    <a href="https://twitter.com/yourprofile" target="_blank">
+    <a href="https://twitter.com" target="_blank">
       <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="40" />
     </a>
   </p>
   
-  <p><strong>💼 Open to:</strong> Collaborations, Freelance Projects, Job Opportunities</p>
-</div>
+  <!--<p><strong>💼 Open to:</strong> Collaborations, Freelance Projects, Job Opportunities</p>
+</div>!-->
 
 <div align="center">
   <br/>
