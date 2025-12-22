@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Oscar%20Shrestha&fontSize=60&fontAlignY=35&animation=fadeIn" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Oscar%20Man%20Shrestha&fontSize=60&fontAlignY=35&animation=fadeIn" alt="Header" />
 </div>
 
 <div align="center">
