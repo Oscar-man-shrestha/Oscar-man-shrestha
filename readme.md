@@ -63,7 +63,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Oscar-man-shrestha&theme=radical" alt="Profile Details" />
   
   <br/>
-  
+  <!--
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Oscar-man-shrestha&theme=radical" alt="Most Commit Language" width="45%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Oscar-man-shrestha&theme=radical" alt="Repos Per Language" width="45%" />
 </div>
